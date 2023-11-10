@@ -1,8 +1,8 @@
 # how-to-write-a-good-readme-file
 
-![GitHub](https://img.shields.io/github/license/imhegde/how-to-write-a-good-readme-file?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/how-to-write-a-good-readme-file?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/how-to-write-a-good-readme-file?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/how-to-write-a-good-readme-file?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/how-to-write-a-good-readme-file?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/how-to-write-a-good-readme-file?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/how-to-write-a-good-readme-file.svg?cache=remove)
 
 ## About The Repo..
@@ -10,7 +10,7 @@ When I was first introduced to GitHub, I had no idea what it was or what it coul
 
 For the longest time as a beginner, I did nothing with my account. But then, because of my passion for tech, I started following other developers and checking out their work on GitHub. I noticed something they had in common: they all had cool projects and contributed to open source, but their projects also had detailed README files.
 
-So my interest in what a README was grew, and I decided to try and add one to my projects, too. I won't lie – I did it in a hurry without any knowledge of how it should be done. And honestly, it wasn't great at all. [Check it out](https://github.com/imhegde).
+So my interest in what a README was grew, and I decided to try and add one to my projects, too. I won't lie – I did it in a hurry without any knowledge of how it should be done. And honestly, it wasn't great at all. [Check it out](https://github.com/hegdepavankumar).
 
 And that was how it stayed for some time. But with practice and continuous learning, I was able to change to some better documentation like THIS, which improved engagement with the project and helped other devs get involved.
 
@@ -129,7 +129,7 @@ Up to this point what we have covered are the minimum requirements for a good RE
 
 Badges aren't necessary, but using them is a simple way of letting other developers know that you know what you're doing.
 
-Having this section can also be helpful to help link to important tools and also show some simple stats about your project like the number of forks, contributors, open issues etc...
+Having this section can also help link to important tools and show some simple stats about your project like the number of forks, contributors, open issues etc...
 
 Below is a screenshot from one of my projects that shows how you can make use of badges:
 
@@ -143,7 +143,7 @@ Don't know where to get them from? Check out the badges hosted by Shields.io. Th
 
 This will be useful if you are developing an open-source project that you will need other developers to contribute to. You will want to add guidelines to let them know how they can contribute to your project.
 
-Also it is important to make sure that the licence you choose for an open-source projects is correct to avoid future conflicts. And adding contribution guidelines will play a big role.
+Also, it is important to make sure that the license you choose for an open-source project is correct to avoid future conflicts. And adding contribution guidelines will play a big role.
 
 Some of the most common guidelines include the Contributor Covenant and the Contributing Guide. These docs will give you the help you need when setting rules for your project.
 
@@ -151,7 +151,7 @@ Some of the most common guidelines include the Contributor Covenant and the Cont
 
 Go the extra mile and write tests for your application. Then provide code examples and how to run them.
 
-This will help show that you are certain and confident that your project will work without any challenges, which will give other people confidence in it, too
+This will help show that you are confident that your project will work without any challenges, which will give other people confidence in it, too
 
 ## Extra points.
 Here are a few extra points to note when you're writing your README:
@@ -171,11 +171,11 @@ There are many tools that you can also use to automatically generate a README fo
 - README Generator
 - README
 
-If you have read this far I really appreciate it. If you enjoyed this article and found it helpful, please share it so you can help other developers improve their projects.
+If you have read this far I appreciate it. If you enjoyed this article and found it helpful, please share it so you can help other developers improve their projects.
 
 I would love to see your newly crafted README file. Be sure to share a link with me via any of the links below:
 
-- [Github](https://github.com/imhegde) <br>
+- [Github](https://github.com/hegdepavankumar) <br>
 - [Linkedin](https://www.linkedin.com/in/hegdepavankumar) <br>
 - [HackerRank](https://www.hackerrank.com/hegdepavankumar)
 
@@ -191,7 +191,7 @@ I would love to see your newly crafted README file. Be sure to share a link with
 
 (https://github.com/hegdepavankumar). This Project is Created by:-
 
-| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
@@ -203,4 +203,4 @@ I would love to see your newly crafted README file. Be sure to share a link with
  
 if you like what I do, maybe consider buying me a coffee 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/imhegde" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
